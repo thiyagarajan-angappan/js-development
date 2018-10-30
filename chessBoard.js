@@ -1,6 +1,6 @@
 // chess board
 
-// 
+// declare variables
 let gridSize = prompt('Enter grid size'),
     black = prompt('Enter character for black'),
     white = prompt('Enter character for white');
