@@ -1,0 +1,21 @@
+{
+  "name": "js-development",
+  "version": "1.0.0",
+  "description": "upskill",
+  "main": "gradleReader.js",
+  "scripts": {
+    "start": "node gradleReader.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiyagarajan-angappan/js-development.git"
+  },
+  "type": "module",
+  "author": "T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiyagarajan-angappan/js-development/issues"
+  },
+  "homepage": "https://github.com/thiyagarajan-angappan/js-development#readme"
+}
